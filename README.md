@@ -1,6 +1,6 @@
 # MedleyVox
 
-This is an official page of "MedleyVox: An Evaluation Dataset for Multiple Singing Voices Separation" in ICASSP 2023.
+This is an unofficial page of "MedleyVox: An Evaluation Dataset for Multiple Singing Voices Separation" in ICASSP 2023.
 
 A camera-ready version of the paper is uploaded in arXiv. Please check the icons below.
 
