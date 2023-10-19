@@ -1,0 +1,3271 @@
+{
+"Al James - Schoolboy Facination_1.wav": {
+"corresponding_data": "Al James - Schoolboy Facination_15.wav",
+"position(sec)": 0.6087083333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Al James - Schoolboy Facination_13.wav": {
+"corresponding_data": "Al James - Schoolboy Facination_5.wav",
+"position(sec)": 4.026041666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Al James - Schoolboy Facination_14.wav": {
+"corresponding_data": "Al James - Schoolboy Facination_2.wav",
+"position(sec)": 1.8357916666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Al James - Schoolboy Facination_15.wav": {
+"corresponding_data": "Al James - Schoolboy Facination_7.wav",
+"position(sec)": 0.21829166666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Al James - Schoolboy Facination_2.wav": {
+"corresponding_data": "Al James - Schoolboy Facination_5.wav",
+"position(sec)": 7.296125,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Al James - Schoolboy Facination_3.wav": {
+"corresponding_data": "Al James - Schoolboy Facination_7.wav",
+"position(sec)": 2.127666666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Al James - Schoolboy Facination_4.wav": {
+"corresponding_data": "Al James - Schoolboy Facination_2.wav",
+"position(sec)": 0.6599583333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Al James - Schoolboy Facination_5.wav": {
+"corresponding_data": "Al James - Schoolboy Facination_13.wav",
+"position(sec)": 0.425875,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Al James - Schoolboy Facination_7.wav": {
+"corresponding_data": "Al James - Schoolboy Facination_3.wav",
+"position(sec)": 0.5656666666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"AM Contra - Heart Peripheral_2.wav": {
+"corresponding_data": "AM Contra - Heart Peripheral_24.wav",
+"position(sec)": 0.784125,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"AM Contra - Heart Peripheral_20.wav": {
+"corresponding_data": "AM Contra - Heart Peripheral_23.wav",
+"position(sec)": 0.5852083333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"AM Contra - Heart Peripheral_21.wav": {
+"corresponding_data": "AM Contra - Heart Peripheral_22.wav",
+"position(sec)": 0.4262916666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"AM Contra - Heart Peripheral_22.wav": {
+"corresponding_data": "AM Contra - Heart Peripheral_3.wav",
+"position(sec)": 0.6859583333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"AM Contra - Heart Peripheral_23.wav": {
+"corresponding_data": "AM Contra - Heart Peripheral_25.wav",
+"position(sec)": 6.4089583333333335,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"AM Contra - Heart Peripheral_24.wav": {
+"corresponding_data": "AM Contra - Heart Peripheral_2.wav",
+"position(sec)": 0.9505833333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"AM Contra - Heart Peripheral_25.wav": {
+"corresponding_data": "AM Contra - Heart Peripheral_21.wav",
+"position(sec)": 2.8720416666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"AM Contra - Heart Peripheral_26.wav": {
+"corresponding_data": "AM Contra - Heart Peripheral_20.wav",
+"position(sec)": 1.4925833333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"AM Contra - Heart Peripheral_3.wav": {
+"corresponding_data": "AM Contra - Heart Peripheral_23.wav",
+"position(sec)": 4.7450833333333335,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Angels In Amplifiers - I'm Alright_10.wav": {
+"corresponding_data": "Angels In Amplifiers - I'm Alright_5.wav",
+"position(sec)": 3.7684166666666665,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Angels In Amplifiers - I'm Alright_11.wav": {
+"corresponding_data": "Angels In Amplifiers - I'm Alright_2.wav",
+"position(sec)": 0.51475,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Angels In Amplifiers - I'm Alright_16.wav": {
+"corresponding_data": "Angels In Amplifiers - I'm Alright_3.wav",
+"position(sec)": 2.4591666666666665,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Angels In Amplifiers - I'm Alright_2.wav": {
+"corresponding_data": "Angels In Amplifiers - I'm Alright_11.wav",
+"position(sec)": 0.029791666666666668,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Angels In Amplifiers - I'm Alright_3.wav": {
+"corresponding_data": "Angels In Amplifiers - I'm Alright_2.wav",
+"position(sec)": 1.4006666666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Angels In Amplifiers - I'm Alright_4.wav": {
+"corresponding_data": "Angels In Amplifiers - I'm Alright_11.wav",
+"position(sec)": 1.8022083333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Angels In Amplifiers - I'm Alright_5.wav": {
+"corresponding_data": "Angels In Amplifiers - I'm Alright_3.wav",
+"position(sec)": 2.093166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Ben Carrigan - We'll Talk About It All Tonight_12.wav": {
+"corresponding_data": "Ben Carrigan - We'll Talk About It All Tonight_17.wav",
+"position(sec)": 0.51425,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Ben Carrigan - We'll Talk About It All Tonight_17.wav": {
+"corresponding_data": "Ben Carrigan - We'll Talk About It All Tonight_18.wav",
+"position(sec)": 5.2447083333333335,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Ben Carrigan - We'll Talk About It All Tonight_18.wav": {
+"corresponding_data": "Ben Carrigan - We'll Talk About It All Tonight_17.wav",
+"position(sec)": 0.7320833333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Ben Carrigan - We'll Talk About It All Tonight_19.wav": {
+"corresponding_data": "Ben Carrigan - We'll Talk About It All Tonight_4.wav",
+"position(sec)": 4.8405,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Ben Carrigan - We'll Talk About It All Tonight_20.wav": {
+"corresponding_data": "Ben Carrigan - We'll Talk About It All Tonight_6.wav",
+"position(sec)": 0.4369166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Ben Carrigan - We'll Talk About It All Tonight_3.wav": {
+"corresponding_data": "Ben Carrigan - We'll Talk About It All Tonight_20.wav",
+"position(sec)": 1.025375,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Ben Carrigan - We'll Talk About It All Tonight_4.wav": {
+"corresponding_data": "Ben Carrigan - We'll Talk About It All Tonight_17.wav",
+"position(sec)": 0.23566666666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Ben Carrigan - We'll Talk About It All Tonight_5.wav": {
+"corresponding_data": "Ben Carrigan - We'll Talk About It All Tonight_17.wav",
+"position(sec)": 0.7570416666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Ben Carrigan - We'll Talk About It All Tonight_6.wav": {
+"corresponding_data": "Ben Carrigan - We'll Talk About It All Tonight_12.wav",
+"position(sec)": 0.034041666666666665,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_12.wav": {
+"corresponding_data": "BKS - Too Much_23.wav",
+"position(sec)": 3.203333333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_13.wav": {
+"corresponding_data": "BKS - Bulldozer_38.wav",
+"position(sec)": 1.458625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_14.wav": {
+"corresponding_data": "BKS - Bulldozer_12.wav",
+"position(sec)": 0.92025,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_15.wav": {
+"corresponding_data": "BKS - Bulldozer_23.wav",
+"position(sec)": 1.7537916666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_16.wav": {
+"corresponding_data": "BKS - Too Much_28.wav",
+"position(sec)": 0.5265,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_17.wav": {
+"corresponding_data": "BKS - Bulldozer_23.wav",
+"position(sec)": 1.7850416666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_18.wav": {
+"corresponding_data": "BKS - Too Much_28.wav",
+"position(sec)": 0.5542916666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_23.wav": {
+"corresponding_data": "BKS - Too Much_11.wav",
+"position(sec)": 2.179,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_24.wav": {
+"corresponding_data": "BKS - Too Much_14.wav",
+"position(sec)": 0.4685,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_25.wav": {
+"corresponding_data": "BKS - Bulldozer_6.wav",
+"position(sec)": 2.957291666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_26.wav": {
+"corresponding_data": "BKS - Too Much_3.wav",
+"position(sec)": 0.07183333333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_3.wav": {
+"corresponding_data": "BKS - Bulldozer_15.wav",
+"position(sec)": 2.0417916666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_34.wav": {
+"corresponding_data": "BKS - Bulldozer_4.wav",
+"position(sec)": 2.7853333333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_35.wav": {
+"corresponding_data": "BKS - Too Much_11.wav",
+"position(sec)": 0.822625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_36.wav": {
+"corresponding_data": "BKS - Bulldozer_4.wav",
+"position(sec)": 2.676833333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_37.wav": {
+"corresponding_data": "BKS - Bulldozer_9.wav",
+"position(sec)": 0.069375,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_38.wav": {
+"corresponding_data": "BKS - Bulldozer_39.wav",
+"position(sec)": 2.67025,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_39.wav": {
+"corresponding_data": "BKS - Bulldozer_6.wav",
+"position(sec)": 2.8205833333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_4.wav": {
+"corresponding_data": "BKS - Too Much_23.wav",
+"position(sec)": 0.8647083333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_40.wav": {
+"corresponding_data": "BKS - Bulldozer_24.wav",
+"position(sec)": 1.773,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_41.wav": {
+"corresponding_data": "BKS - Bulldozer_17.wav",
+"position(sec)": 3.0952083333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_5.wav": {
+"corresponding_data": "BKS - Bulldozer_39.wav",
+"position(sec)": 1.6452916666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_6.wav": {
+"corresponding_data": "BKS - Too Much_11.wav",
+"position(sec)": 0.8551666666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_7.wav": {
+"corresponding_data": "BKS - Too Much_14.wav",
+"position(sec)": 0.7761666666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_8.wav": {
+"corresponding_data": "BKS - Bulldozer_26.wav",
+"position(sec)": 0.47270833333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Bulldozer_9.wav": {
+"corresponding_data": "BKS - Too Much_2.wav",
+"position(sec)": 4.222916666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Too Much_10.wav": {
+"corresponding_data": "BKS - Bulldozer_16.wav",
+"position(sec)": 1.8526666666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Too Much_11.wav": {
+"corresponding_data": "BKS - Bulldozer_18.wav",
+"position(sec)": 1.0555416666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Too Much_14.wav": {
+"corresponding_data": "BKS - Bulldozer_34.wav",
+"position(sec)": 0.7125,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Too Much_2.wav": {
+"corresponding_data": "BKS - Bulldozer_18.wav",
+"position(sec)": 1.6457083333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Too Much_23.wav": {
+"corresponding_data": "BKS - Bulldozer_4.wav",
+"position(sec)": 2.5271666666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Too Much_28.wav": {
+"corresponding_data": "BKS - Too Much_11.wav",
+"position(sec)": 2.9452083333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Too Much_3.wav": {
+"corresponding_data": "BKS - Bulldozer_8.wav",
+"position(sec)": 0.22545833333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Too Much_6.wav": {
+"corresponding_data": "BKS - Bulldozer_12.wav",
+"position(sec)": 1.0880416666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"BKS - Too Much_9.wav": {
+"corresponding_data": "BKS - Bulldozer_6.wav",
+"position(sec)": 0.7713333333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Bobby Nobody - Stitch Up_10.wav": {
+"corresponding_data": "Bobby Nobody - Stitch Up_23.wav",
+"position(sec)": 2.713375,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Bobby Nobody - Stitch Up_23.wav": {
+"corresponding_data": "Bobby Nobody - Stitch Up_24.wav",
+"position(sec)": 1.9709583333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Bobby Nobody - Stitch Up_24.wav": {
+"corresponding_data": "Bobby Nobody - Stitch Up_23.wav",
+"position(sec)": 3.6939583333333332,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Carlos Gonzalez - A Place For Us_0.wav": {
+"corresponding_data": "Carlos Gonzalez - A Place For Us_31.wav",
+"position(sec)": 5.121166666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Carlos Gonzalez - A Place For Us_1.wav": {
+"corresponding_data": "Carlos Gonzalez - A Place For Us_3.wav",
+"position(sec)": 0.17479166666666668,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Carlos Gonzalez - A Place For Us_10.wav": {
+"corresponding_data": "Carlos Gonzalez - A Place For Us_30.wav",
+"position(sec)": 0.6540416666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Carlos Gonzalez - A Place For Us_2.wav": {
+"corresponding_data": "Carlos Gonzalez - A Place For Us_3.wav",
+"position(sec)": 1.870625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Carlos Gonzalez - A Place For Us_3.wav": {
+"corresponding_data": "Carlos Gonzalez - A Place For Us_9.wav",
+"position(sec)": 0.03845833333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Carlos Gonzalez - A Place For Us_30.wav": {
+"corresponding_data": "Carlos Gonzalez - A Place For Us_10.wav",
+"position(sec)": 1.6784583333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Carlos Gonzalez - A Place For Us_31.wav": {
+"corresponding_data": "Carlos Gonzalez - A Place For Us_1.wav",
+"position(sec)": 4.326583333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Carlos Gonzalez - A Place For Us_8.wav": {
+"corresponding_data": "Carlos Gonzalez - A Place For Us_1.wav",
+"position(sec)": 3.160416666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Carlos Gonzalez - A Place For Us_9.wav": {
+"corresponding_data": "Carlos Gonzalez - A Place For Us_10.wav",
+"position(sec)": 1.8024583333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Cristina Vane - So Easy_14.wav": {
+"corresponding_data": "Cristina Vane - So Easy_4.wav",
+"position(sec)": 1.3388333333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Cristina Vane - So Easy_16.wav": {
+"corresponding_data": "Cristina Vane - So Easy_19.wav",
+"position(sec)": 1.05025,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Cristina Vane - So Easy_17.wav": {
+"corresponding_data": "Cristina Vane - So Easy_19.wav",
+"position(sec)": 2.7177083333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Cristina Vane - So Easy_18.wav": {
+"corresponding_data": "Cristina Vane - So Easy_14.wav",
+"position(sec)": 3.814416666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Cristina Vane - So Easy_19.wav": {
+"corresponding_data": "Cristina Vane - So Easy_28.wav",
+"position(sec)": 0.8935833333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Cristina Vane - So Easy_20.wav": {
+"corresponding_data": "Cristina Vane - So Easy_9.wav",
+"position(sec)": 1.113125,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Cristina Vane - So Easy_21.wav": {
+"corresponding_data": "Cristina Vane - So Easy_8.wav",
+"position(sec)": 1.2444166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Cristina Vane - So Easy_27.wav": {
+"corresponding_data": "Cristina Vane - So Easy_18.wav",
+"position(sec)": 3.175666666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Cristina Vane - So Easy_28.wav": {
+"corresponding_data": "Cristina Vane - So Easy_21.wav",
+"position(sec)": 3.97825,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Cristina Vane - So Easy_4.wav": {
+"corresponding_data": "Cristina Vane - So Easy_5.wav",
+"position(sec)": 0.8666666666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Cristina Vane - So Easy_5.wav": {
+"corresponding_data": "Cristina Vane - So Easy_18.wav",
+"position(sec)": 0.19733333333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Cristina Vane - So Easy_6.wav": {
+"corresponding_data": "Cristina Vane - So Easy_8.wav",
+"position(sec)": 0.7415833333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Cristina Vane - So Easy_7.wav": {
+"corresponding_data": "Cristina Vane - So Easy_21.wav",
+"position(sec)": 3.427208333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Cristina Vane - So Easy_8.wav": {
+"corresponding_data": "Cristina Vane - So Easy_19.wav",
+"position(sec)": 2.594625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Cristina Vane - So Easy_9.wav": {
+"corresponding_data": "Cristina Vane - So Easy_21.wav",
+"position(sec)": 1.590375,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Forkupines - Semantics_20.wav": {
+"corresponding_data": "Forkupines - Semantics_5.wav",
+"position(sec)": 0.5889583333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Forkupines - Semantics_38.wav": {
+"corresponding_data": "Forkupines - Semantics_20.wav",
+"position(sec)": 0.13466666666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Forkupines - Semantics_4.wav": {
+"corresponding_data": "Forkupines - Semantics_38.wav",
+"position(sec)": 2.8993333333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Forkupines - Semantics_5.wav": {
+"corresponding_data": "Forkupines - Semantics_38.wav",
+"position(sec)": 2.639625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Georgia Wonder - Siren_24.wav": {
+"corresponding_data": "Georgia Wonder - Siren_44.wav",
+"position(sec)": 2.73975,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Georgia Wonder - Siren_25.wav": {
+"corresponding_data": "Georgia Wonder - Siren_44.wav",
+"position(sec)": 0.371875,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Georgia Wonder - Siren_26.wav": {
+"corresponding_data": "Georgia Wonder - Siren_46.wav",
+"position(sec)": 0.654,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Georgia Wonder - Siren_27.wav": {
+"corresponding_data": "Georgia Wonder - Siren_43.wav",
+"position(sec)": 0.092625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Georgia Wonder - Siren_42.wav": {
+"corresponding_data": "Georgia Wonder - Siren_8.wav",
+"position(sec)": 1.471,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Georgia Wonder - Siren_43.wav": {
+"corresponding_data": "Georgia Wonder - Siren_27.wav",
+"position(sec)": 6.119083333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Georgia Wonder - Siren_44.wav": {
+"corresponding_data": "Georgia Wonder - Siren_46.wav",
+"position(sec)": 0.6119166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Georgia Wonder - Siren_46.wav": {
+"corresponding_data": "Georgia Wonder - Siren_9.wav",
+"position(sec)": 1.45425,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Georgia Wonder - Siren_5.wav": {
+"corresponding_data": "Georgia Wonder - Siren_8.wav",
+"position(sec)": 2.27975,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Georgia Wonder - Siren_6.wav": {
+"corresponding_data": "Georgia Wonder - Siren_46.wav",
+"position(sec)": 0.06275,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Georgia Wonder - Siren_7.wav": {
+"corresponding_data": "Georgia Wonder - Siren_5.wav",
+"position(sec)": 3.4071666666666665,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Georgia Wonder - Siren_8.wav": {
+"corresponding_data": "Georgia Wonder - Siren_26.wav",
+"position(sec)": 3.486458333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Georgia Wonder - Siren_9.wav": {
+"corresponding_data": "Georgia Wonder - Siren_42.wav",
+"position(sec)": 0.3944166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Girls Under Glass - We Feel Alright_10.wav": {
+"corresponding_data": "Girls Under Glass - We Feel Alright_7.wav",
+"position(sec)": 0.966,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Girls Under Glass - We Feel Alright_11.wav": {
+"corresponding_data": "Girls Under Glass - We Feel Alright_24.wav",
+"position(sec)": 1.847875,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Girls Under Glass - We Feel Alright_23.wav": {
+"corresponding_data": "Girls Under Glass - We Feel Alright_8.wav",
+"position(sec)": 1.787125,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Girls Under Glass - We Feel Alright_24.wav": {
+"corresponding_data": "Girls Under Glass - We Feel Alright_11.wav",
+"position(sec)": 0.9485416666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Girls Under Glass - We Feel Alright_25.wav": {
+"corresponding_data": "Girls Under Glass - We Feel Alright_8.wav",
+"position(sec)": 0.3509583333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Girls Under Glass - We Feel Alright_7.wav": {
+"corresponding_data": "Girls Under Glass - We Feel Alright_8.wav",
+"position(sec)": 1.77525,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Girls Under Glass - We Feel Alright_8.wav": {
+"corresponding_data": "Girls Under Glass - We Feel Alright_25.wav",
+"position(sec)": 1.9129166666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Hollow Ground - Ill Fate_10.wav": {
+"corresponding_data": "Hollow Ground - Ill Fate_3.wav",
+"position(sec)": 0.7185,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Hollow Ground - Ill Fate_11.wav": {
+"corresponding_data": "Hollow Ground - Ill Fate_12.wav",
+"position(sec)": 2.314625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Hollow Ground - Ill Fate_12.wav": {
+"corresponding_data": "Hollow Ground - Ill Fate_5.wav",
+"position(sec)": 2.0218333333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Hollow Ground - Ill Fate_14.wav": {
+"corresponding_data": "Hollow Ground - Ill Fate_8.wav",
+"position(sec)": 1.5363333333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Hollow Ground - Ill Fate_2.wav": {
+"corresponding_data": "Hollow Ground - Ill Fate_11.wav",
+"position(sec)": 4.394291666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Hollow Ground - Ill Fate_3.wav": {
+"corresponding_data": "Hollow Ground - Ill Fate_5.wav",
+"position(sec)": 0.32716666666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Hollow Ground - Ill Fate_4.wav": {
+"corresponding_data": "Hollow Ground - Ill Fate_8.wav",
+"position(sec)": 2.8499166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Hollow Ground - Ill Fate_5.wav": {
+"corresponding_data": "Hollow Ground - Ill Fate_12.wav",
+"position(sec)": 1.7777916666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Hollow Ground - Ill Fate_6.wav": {
+"corresponding_data": "Hollow Ground - Ill Fate_9.wav",
+"position(sec)": 4.938166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Hollow Ground - Ill Fate_8.wav": {
+"corresponding_data": "Hollow Ground - Ill Fate_5.wav",
+"position(sec)": 3.43825,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Hollow Ground - Ill Fate_9.wav": {
+"corresponding_data": "Hollow Ground - Ill Fate_3.wav",
+"position(sec)": 2.0420416666666665,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"James Elder & Mark M Thompson - The English Actor_1.wav": {
+"corresponding_data": "James Elder & Mark M Thompson - The English Actor_10.wav",
+"position(sec)": 2.7897083333333335,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"James Elder & Mark M Thompson - The English Actor_10.wav": {
+"corresponding_data": "James Elder & Mark M Thompson - The English Actor_2.wav",
+"position(sec)": 0.05529166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"James Elder & Mark M Thompson - The English Actor_15.wav": {
+"corresponding_data": "James Elder & Mark M Thompson - The English Actor_10.wav",
+"position(sec)": 2.7032083333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"James Elder & Mark M Thompson - The English Actor_2.wav": {
+"corresponding_data": "James Elder & Mark M Thompson - The English Actor_10.wav",
+"position(sec)": 1.2554166666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"James Elder & Mark M Thompson - The English Actor_21.wav": {
+"corresponding_data": "James Elder & Mark M Thompson - The English Actor_10.wav",
+"position(sec)": 0.37516666666666665,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Juliet's Rescue - Heartbeats_15.wav": {
+"corresponding_data": "Juliet's Rescue - Heartbeats_35.wav",
+"position(sec)": 1.6980833333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Juliet's Rescue - Heartbeats_34.wav": {
+"corresponding_data": "Juliet's Rescue - Heartbeats_35.wav",
+"position(sec)": 1.7105416666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Juliet's Rescue - Heartbeats_35.wav": {
+"corresponding_data": "Juliet's Rescue - Heartbeats_15.wav",
+"position(sec)": 1.5090416666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Louis Cressy Band - Good Time_10.wav": {
+"corresponding_data": "Louis Cressy Band - Good Time_13.wav",
+"position(sec)": 0.8336666666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Louis Cressy Band - Good Time_11.wav": {
+"corresponding_data": "Louis Cressy Band - Good Time_24.wav",
+"position(sec)": 0.4875833333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Louis Cressy Band - Good Time_12.wav": {
+"corresponding_data": "Louis Cressy Band - Good Time_30.wav",
+"position(sec)": 1.81275,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Louis Cressy Band - Good Time_13.wav": {
+"corresponding_data": "Louis Cressy Band - Good Time_8.wav",
+"position(sec)": 0.019083333333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Louis Cressy Band - Good Time_14.wav": {
+"corresponding_data": "Louis Cressy Band - Good Time_10.wav",
+"position(sec)": 2.4960833333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Louis Cressy Band - Good Time_18.wav": {
+"corresponding_data": "Louis Cressy Band - Good Time_38.wav",
+"position(sec)": 2.294791666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Louis Cressy Band - Good Time_24.wav": {
+"corresponding_data": "Louis Cressy Band - Good Time_37.wav",
+"position(sec)": 0.18029166666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Louis Cressy Band - Good Time_25.wav": {
+"corresponding_data": "Louis Cressy Band - Good Time_27.wav",
+"position(sec)": 2.5738333333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Louis Cressy Band - Good Time_26.wav": {
+"corresponding_data": "Louis Cressy Band - Good Time_18.wav",
+"position(sec)": 0.315375,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Louis Cressy Band - Good Time_27.wav": {
+"corresponding_data": "Louis Cressy Band - Good Time_18.wav",
+"position(sec)": 0.8295416666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Louis Cressy Band - Good Time_28.wav": {
+"corresponding_data": "Louis Cressy Band - Good Time_39.wav",
+"position(sec)": 2.0509583333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Louis Cressy Band - Good Time_29.wav": {
+"corresponding_data": "Louis Cressy Band - Good Time_18.wav",
+"position(sec)": 0.8172083333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Louis Cressy Band - Good Time_30.wav": {
+"corresponding_data": "Louis Cressy Band - Good Time_11.wav",
+"position(sec)": 4.360041666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Louis Cressy Band - Good Time_37.wav": {
+"corresponding_data": "Louis Cressy Band - Good Time_9.wav",
+"position(sec)": 2.3960416666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Louis Cressy Band - Good Time_38.wav": {
+"corresponding_data": "Louis Cressy Band - Good Time_14.wav",
+"position(sec)": 6.699625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Louis Cressy Band - Good Time_39.wav": {
+"corresponding_data": "Louis Cressy Band - Good Time_18.wav",
+"position(sec)": 0.395125,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Louis Cressy Band - Good Time_6.wav": {
+"corresponding_data": "Louis Cressy Band - Good Time_14.wav",
+"position(sec)": 0.04925,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Louis Cressy Band - Good Time_7.wav": {
+"corresponding_data": "Louis Cressy Band - Good Time_8.wav",
+"position(sec)": 0.13891666666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Louis Cressy Band - Good Time_8.wav": {
+"corresponding_data": "Louis Cressy Band - Good Time_37.wav",
+"position(sec)": 2.696833333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Louis Cressy Band - Good Time_9.wav": {
+"corresponding_data": "Louis Cressy Band - Good Time_7.wav",
+"position(sec)": 4.722083333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Lyndsey Ollard - Catching Up_17.wav": {
+"corresponding_data": "Lyndsey Ollard - Catching Up_9.wav",
+"position(sec)": 0.487875,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Lyndsey Ollard - Catching Up_25.wav": {
+"corresponding_data": "Lyndsey Ollard - Catching Up_28.wav",
+"position(sec)": 0.986,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Lyndsey Ollard - Catching Up_26.wav": {
+"corresponding_data": "Lyndsey Ollard - Catching Up_9.wav",
+"position(sec)": 0.9521666666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Lyndsey Ollard - Catching Up_27.wav": {
+"corresponding_data": "Lyndsey Ollard - Catching Up_9.wav",
+"position(sec)": 0.5281666666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Lyndsey Ollard - Catching Up_28.wav": {
+"corresponding_data": "Lyndsey Ollard - Catching Up_26.wav",
+"position(sec)": 0.09295833333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Lyndsey Ollard - Catching Up_9.wav": {
+"corresponding_data": "Lyndsey Ollard - Catching Up_28.wav",
+"position(sec)": 2.9650416666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"M.E.R.C. Music - Knockout_10.wav": {
+"corresponding_data": "M.E.R.C. Music - Knockout_12.wav",
+"position(sec)": 1.47625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"M.E.R.C. Music - Knockout_11.wav": {
+"corresponding_data": "M.E.R.C. Music - Knockout_9.wav",
+"position(sec)": 1.3405833333333332,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"M.E.R.C. Music - Knockout_12.wav": {
+"corresponding_data": "M.E.R.C. Music - Knockout_9.wav",
+"position(sec)": 5.845625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"M.E.R.C. Music - Knockout_18.wav": {
+"corresponding_data": "M.E.R.C. Music - Knockout_11.wav",
+"position(sec)": 3.641583333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"M.E.R.C. Music - Knockout_8.wav": {
+"corresponding_data": "M.E.R.C. Music - Knockout_10.wav",
+"position(sec)": 0.0,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"M.E.R.C. Music - Knockout_9.wav": {
+"corresponding_data": "M.E.R.C. Music - Knockout_11.wav",
+"position(sec)": 8.27975,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Moosmusic - Big Dummy Shake_10.wav": {
+"corresponding_data": "Moosmusic - Big Dummy Shake_12.wav",
+"position(sec)": 1.4205416666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Moosmusic - Big Dummy Shake_11.wav": {
+"corresponding_data": "Moosmusic - Big Dummy Shake_18.wav",
+"position(sec)": 1.949625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Moosmusic - Big Dummy Shake_12.wav": {
+"corresponding_data": "Moosmusic - Big Dummy Shake_20.wav",
+"position(sec)": 2.3423333333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Moosmusic - Big Dummy Shake_13.wav": {
+"corresponding_data": "Moosmusic - Big Dummy Shake_6.wav",
+"position(sec)": 5.64075,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Moosmusic - Big Dummy Shake_14.wav": {
+"corresponding_data": "Moosmusic - Big Dummy Shake_12.wav",
+"position(sec)": 1.3034166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Moosmusic - Big Dummy Shake_16.wav": {
+"corresponding_data": "Moosmusic - Big Dummy Shake_11.wav",
+"position(sec)": 0.6901666666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Moosmusic - Big Dummy Shake_17.wav": {
+"corresponding_data": "Moosmusic - Big Dummy Shake_11.wav",
+"position(sec)": 0.5711666666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Moosmusic - Big Dummy Shake_18.wav": {
+"corresponding_data": "Moosmusic - Big Dummy Shake_7.wav",
+"position(sec)": 0.5119166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Moosmusic - Big Dummy Shake_19.wav": {
+"corresponding_data": "Moosmusic - Big Dummy Shake_23.wav",
+"position(sec)": 0.7250833333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Moosmusic - Big Dummy Shake_20.wav": {
+"corresponding_data": "Moosmusic - Big Dummy Shake_5.wav",
+"position(sec)": 0.18233333333333332,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Moosmusic - Big Dummy Shake_21.wav": {
+"corresponding_data": "Moosmusic - Big Dummy Shake_10.wav",
+"position(sec)": 1.4531666666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Moosmusic - Big Dummy Shake_22.wav": {
+"corresponding_data": "Moosmusic - Big Dummy Shake_12.wav",
+"position(sec)": 2.067375,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Moosmusic - Big Dummy Shake_23.wav": {
+"corresponding_data": "Moosmusic - Big Dummy Shake_19.wav",
+"position(sec)": 0.09229166666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Moosmusic - Big Dummy Shake_24.wav": {
+"corresponding_data": "Moosmusic - Big Dummy Shake_26.wav",
+"position(sec)": 2.834875,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Moosmusic - Big Dummy Shake_26.wav": {
+"corresponding_data": "Moosmusic - Big Dummy Shake_7.wav",
+"position(sec)": 0.8975,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Moosmusic - Big Dummy Shake_4.wav": {
+"corresponding_data": "Moosmusic - Big Dummy Shake_6.wav",
+"position(sec)": 3.1619166666666665,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Moosmusic - Big Dummy Shake_5.wav": {
+"corresponding_data": "Moosmusic - Big Dummy Shake_18.wav",
+"position(sec)": 0.28391666666666665,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Moosmusic - Big Dummy Shake_6.wav": {
+"corresponding_data": "Moosmusic - Big Dummy Shake_22.wav",
+"position(sec)": 2.4871666666666665,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Moosmusic - Big Dummy Shake_7.wav": {
+"corresponding_data": "Moosmusic - Big Dummy Shake_20.wav",
+"position(sec)": 6.395708333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Moosmusic - Big Dummy Shake_8.wav": {
+"corresponding_data": "Moosmusic - Big Dummy Shake_23.wav",
+"position(sec)": 0.99425,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Motor Tapes - Shore_11.wav": {
+"corresponding_data": "Motor Tapes - Shore_20.wav",
+"position(sec)": 1.608375,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Motor Tapes - Shore_12.wav": {
+"corresponding_data": "Motor Tapes - Shore_25.wav",
+"position(sec)": 4.870125,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Motor Tapes - Shore_13.wav": {
+"corresponding_data": "Motor Tapes - Shore_20.wav",
+"position(sec)": 3.010625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Motor Tapes - Shore_14.wav": {
+"corresponding_data": "Motor Tapes - Shore_21.wav",
+"position(sec)": 6.174458333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Motor Tapes - Shore_2.wav": {
+"corresponding_data": "Motor Tapes - Shore_14.wav",
+"position(sec)": 3.8634583333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Motor Tapes - Shore_20.wav": {
+"corresponding_data": "Motor Tapes - Shore_24.wav",
+"position(sec)": 4.075208333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Motor Tapes - Shore_21.wav": {
+"corresponding_data": "Motor Tapes - Shore_3.wav",
+"position(sec)": 4.95,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Motor Tapes - Shore_22.wav": {
+"corresponding_data": "Motor Tapes - Shore_24.wav",
+"position(sec)": 0.042041666666666665,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Motor Tapes - Shore_23.wav": {
+"corresponding_data": "Motor Tapes - Shore_13.wav",
+"position(sec)": 1.7464166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Motor Tapes - Shore_24.wav": {
+"corresponding_data": "Motor Tapes - Shore_11.wav",
+"position(sec)": 1.3582916666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Motor Tapes - Shore_25.wav": {
+"corresponding_data": "Motor Tapes - Shore_3.wav",
+"position(sec)": 4.473208333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Motor Tapes - Shore_3.wav": {
+"corresponding_data": "Motor Tapes - Shore_20.wav",
+"position(sec)": 4.912083333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Motor Tapes - Shore_4.wav": {
+"corresponding_data": "Motor Tapes - Shore_25.wav",
+"position(sec)": 1.1345,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Motor Tapes - Shore_5.wav": {
+"corresponding_data": "Motor Tapes - Shore_11.wav",
+"position(sec)": 1.903625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Mu - Too Bright_1.wav": {
+"corresponding_data": "Mu - Too Bright_18.wav",
+"position(sec)": 1.981,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Mu - Too Bright_10.wav": {
+"corresponding_data": "Mu - Too Bright_2.wav",
+"position(sec)": 4.683791666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Mu - Too Bright_12.wav": {
+"corresponding_data": "Mu - Too Bright_27.wav",
+"position(sec)": 0.27208333333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Mu - Too Bright_14.wav": {
+"corresponding_data": "Mu - Too Bright_16.wav",
+"position(sec)": 0.20254166666666668,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Mu - Too Bright_16.wav": {
+"corresponding_data": "Mu - Too Bright_28.wav",
+"position(sec)": 3.8660833333333335,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Mu - Too Bright_17.wav": {
+"corresponding_data": "Mu - Too Bright_1.wav",
+"position(sec)": 3.245833333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Mu - Too Bright_18.wav": {
+"corresponding_data": "Mu - Too Bright_26.wav",
+"position(sec)": 0.10266666666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Mu - Too Bright_2.wav": {
+"corresponding_data": "Mu - Too Bright_4.wav",
+"position(sec)": 1.1782083333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Mu - Too Bright_25.wav": {
+"corresponding_data": "Mu - Too Bright_2.wav",
+"position(sec)": 1.6847083333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Mu - Too Bright_26.wav": {
+"corresponding_data": "Mu - Too Bright_27.wav",
+"position(sec)": 0.16170833333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Mu - Too Bright_27.wav": {
+"corresponding_data": "Mu - Too Bright_18.wav",
+"position(sec)": 2.6022916666666664,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Mu - Too Bright_28.wav": {
+"corresponding_data": "Mu - Too Bright_25.wav",
+"position(sec)": 2.071,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Mu - Too Bright_29.wav": {
+"corresponding_data": "Mu - Too Bright_25.wav",
+"position(sec)": 1.0083333333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Mu - Too Bright_3.wav": {
+"corresponding_data": "Mu - Too Bright_5.wav",
+"position(sec)": 0.8105,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Mu - Too Bright_4.wav": {
+"corresponding_data": "Mu - Too Bright_12.wav",
+"position(sec)": 1.8952916666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Mu - Too Bright_5.wav": {
+"corresponding_data": "Mu - Too Bright_26.wav",
+"position(sec)": 1.29675,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Nerve 9 - Pray For The Rain_12.wav": {
+"corresponding_data": "Nerve 9 - Pray For The Rain_8.wav",
+"position(sec)": 0.22375,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Nerve 9 - Pray For The Rain_13.wav": {
+"corresponding_data": "Nerve 9 - Pray For The Rain_15.wav",
+"position(sec)": 0.8483333333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Nerve 9 - Pray For The Rain_14.wav": {
+"corresponding_data": "Nerve 9 - Pray For The Rain_27.wav",
+"position(sec)": 0.8462083333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Nerve 9 - Pray For The Rain_15.wav": {
+"corresponding_data": "Nerve 9 - Pray For The Rain_2.wav",
+"position(sec)": 0.12241666666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Nerve 9 - Pray For The Rain_2.wav": {
+"corresponding_data": "Nerve 9 - Pray For The Rain_26.wav",
+"position(sec)": 4.986041666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Nerve 9 - Pray For The Rain_26.wav": {
+"corresponding_data": "Nerve 9 - Pray For The Rain_2.wav",
+"position(sec)": 4.971166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Nerve 9 - Pray For The Rain_27.wav": {
+"corresponding_data": "Nerve 9 - Pray For The Rain_14.wav",
+"position(sec)": 5.793583333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Nerve 9 - Pray For The Rain_28.wav": {
+"corresponding_data": "Nerve 9 - Pray For The Rain_27.wav",
+"position(sec)": 0.31825,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Nerve 9 - Pray For The Rain_29.wav": {
+"corresponding_data": "Nerve 9 - Pray For The Rain_31.wav",
+"position(sec)": 3.1719583333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Nerve 9 - Pray For The Rain_3.wav": {
+"corresponding_data": "Nerve 9 - Pray For The Rain_12.wav",
+"position(sec)": 3.738625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Nerve 9 - Pray For The Rain_30.wav": {
+"corresponding_data": "Nerve 9 - Pray For The Rain_12.wav",
+"position(sec)": 4.540541666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Nerve 9 - Pray For The Rain_31.wav": {
+"corresponding_data": "Nerve 9 - Pray For The Rain_4.wav",
+"position(sec)": 2.9074583333333335,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Nerve 9 - Pray For The Rain_4.wav": {
+"corresponding_data": "Nerve 9 - Pray For The Rain_12.wav",
+"position(sec)": 2.0340416666666665,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Nerve 9 - Pray For The Rain_5.wav": {
+"corresponding_data": "Nerve 9 - Pray For The Rain_12.wav",
+"position(sec)": 3.53925,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Nerve 9 - Pray For The Rain_8.wav": {
+"corresponding_data": "Nerve 9 - Pray For The Rain_3.wav",
+"position(sec)": 0.950375,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"PR - Happy Daze_10.wav": {
+"corresponding_data": "PR - Oh No_10.wav",
+"position(sec)": 1.0108333333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"PR - Happy Daze_12.wav": {
+"corresponding_data": "PR - Oh No_10.wav",
+"position(sec)": 2.6979166666666665,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"PR - Happy Daze_13.wav": {
+"corresponding_data": "PR - Happy Daze_10.wav",
+"position(sec)": 2.1224166666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"PR - Happy Daze_14.wav": {
+"corresponding_data": "PR - Oh No_7.wav",
+"position(sec)": 3.143625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"PR - Happy Daze_15.wav": {
+"corresponding_data": "PR - Happy Daze_7.wav",
+"position(sec)": 0.5568333333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"PR - Happy Daze_16.wav": {
+"corresponding_data": "PR - Oh No_2.wav",
+"position(sec)": 0.07691666666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"PR - Happy Daze_17.wav": {
+"corresponding_data": "PR - Happy Daze_8.wav",
+"position(sec)": 2.2760833333333332,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"PR - Happy Daze_18.wav": {
+"corresponding_data": "PR - Happy Daze_13.wav",
+"position(sec)": 0.6762083333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"PR - Happy Daze_6.wav": {
+"corresponding_data": "PR - Oh No_1.wav",
+"position(sec)": 0.7387916666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"PR - Happy Daze_7.wav": {
+"corresponding_data": "PR - Happy Daze_18.wav",
+"position(sec)": 3.8949583333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"PR - Happy Daze_8.wav": {
+"corresponding_data": "PR - Happy Daze_13.wav",
+"position(sec)": 2.674,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"PR - Happy Daze_9.wav": {
+"corresponding_data": "PR - Happy Daze_16.wav",
+"position(sec)": 0.9719166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"PR - Oh No_1.wav": {
+"corresponding_data": "PR - Oh No_10.wav",
+"position(sec)": 2.3480416666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"PR - Oh No_10.wav": {
+"corresponding_data": "PR - Happy Daze_9.wav",
+"position(sec)": 0.9167916666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"PR - Oh No_2.wav": {
+"corresponding_data": "PR - Oh No_1.wav",
+"position(sec)": 0.10433333333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"PR - Oh No_3.wav": {
+"corresponding_data": "PR - Happy Daze_12.wav",
+"position(sec)": 0.7377083333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"PR - Oh No_4.wav": {
+"corresponding_data": "PR - Oh No_6.wav",
+"position(sec)": 3.3629583333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"PR - Oh No_5.wav": {
+"corresponding_data": "PR - Oh No_7.wav",
+"position(sec)": 1.462,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"PR - Oh No_6.wav": {
+"corresponding_data": "PR - Happy Daze_18.wav",
+"position(sec)": 4.195666666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"PR - Oh No_7.wav": {
+"corresponding_data": "PR - Oh No_2.wav",
+"position(sec)": 0.5108333333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"PR - Oh No_8.wav": {
+"corresponding_data": "PR - Happy Daze_16.wav",
+"position(sec)": 1.3926666666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Punkdisco - Oral Hygiene_10.wav": {
+"corresponding_data": "Punkdisco - Oral Hygiene_13.wav",
+"position(sec)": 3.236666666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Punkdisco - Oral Hygiene_11.wav": {
+"corresponding_data": "Punkdisco - Oral Hygiene_19.wav",
+"position(sec)": 4.716458333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Punkdisco - Oral Hygiene_13.wav": {
+"corresponding_data": "Punkdisco - Oral Hygiene_7.wav",
+"position(sec)": 0.17879166666666665,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Punkdisco - Oral Hygiene_14.wav": {
+"corresponding_data": "Punkdisco - Oral Hygiene_18.wav",
+"position(sec)": 5.311875,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Punkdisco - Oral Hygiene_15.wav": {
+"corresponding_data": "Punkdisco - Oral Hygiene_3.wav",
+"position(sec)": 0.5392083333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Punkdisco - Oral Hygiene_17.wav": {
+"corresponding_data": "Punkdisco - Oral Hygiene_18.wav",
+"position(sec)": 3.825458333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Punkdisco - Oral Hygiene_18.wav": {
+"corresponding_data": "Punkdisco - Oral Hygiene_3.wav",
+"position(sec)": 0.4367083333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Punkdisco - Oral Hygiene_19.wav": {
+"corresponding_data": "Punkdisco - Oral Hygiene_30.wav",
+"position(sec)": 1.26425,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Punkdisco - Oral Hygiene_2.wav": {
+"corresponding_data": "Punkdisco - Oral Hygiene_7.wav",
+"position(sec)": 1.937375,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Punkdisco - Oral Hygiene_20.wav": {
+"corresponding_data": "Punkdisco - Oral Hygiene_14.wav",
+"position(sec)": 0.27979166666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Punkdisco - Oral Hygiene_21.wav": {
+"corresponding_data": "Punkdisco - Oral Hygiene_7.wav",
+"position(sec)": 0.6754166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Punkdisco - Oral Hygiene_22.wav": {
+"corresponding_data": "Punkdisco - Oral Hygiene_6.wav",
+"position(sec)": 0.914875,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Punkdisco - Oral Hygiene_23.wav": {
+"corresponding_data": "Punkdisco - Oral Hygiene_3.wav",
+"position(sec)": 0.12508333333333332,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Punkdisco - Oral Hygiene_27.wav": {
+"corresponding_data": "Punkdisco - Oral Hygiene_19.wav",
+"position(sec)": 2.721416666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Punkdisco - Oral Hygiene_3.wav": {
+"corresponding_data": "Punkdisco - Oral Hygiene_4.wav",
+"position(sec)": 3.309875,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Punkdisco - Oral Hygiene_30.wav": {
+"corresponding_data": "Punkdisco - Oral Hygiene_6.wav",
+"position(sec)": 0.9767916666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Punkdisco - Oral Hygiene_4.wav": {
+"corresponding_data": "Punkdisco - Oral Hygiene_20.wav",
+"position(sec)": 0.3274166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Punkdisco - Oral Hygiene_6.wav": {
+"corresponding_data": "Punkdisco - Oral Hygiene_30.wav",
+"position(sec)": 1.3155,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Punkdisco - Oral Hygiene_7.wav": {
+"corresponding_data": "Punkdisco - Oral Hygiene_27.wav",
+"position(sec)": 1.414625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Punkdisco - Oral Hygiene_9.wav": {
+"corresponding_data": "Punkdisco - Oral Hygiene_15.wav",
+"position(sec)": 0.8467083333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Raft Monk - Tiring_25.wav": {
+"corresponding_data": "Raft Monk - Tiring_26.wav",
+"position(sec)": 1.7921666666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Raft Monk - Tiring_26.wav": {
+"corresponding_data": "Raft Monk - Tiring_25.wav",
+"position(sec)": 0.28075,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Secretariat - Borderline_12.wav": {
+"corresponding_data": "Secretariat - Over The Top_5.wav",
+"position(sec)": 0.7655833333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Secretariat - Borderline_13.wav": {
+"corresponding_data": "Secretariat - Over The Top_6.wav",
+"position(sec)": 2.6999166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Secretariat - Borderline_14.wav": {
+"corresponding_data": "Secretariat - Borderline_16.wav",
+"position(sec)": 2.1822916666666665,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Secretariat - Borderline_16.wav": {
+"corresponding_data": "Secretariat - Over The Top_12.wav",
+"position(sec)": 3.7702916666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Secretariat - Borderline_2.wav": {
+"corresponding_data": "Secretariat - Borderline_16.wav",
+"position(sec)": 1.3701666666666668,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Secretariat - Borderline_24.wav": {
+"corresponding_data": "Secretariat - Over The Top_12.wav",
+"position(sec)": 1.8994583333333332,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Secretariat - Borderline_25.wav": {
+"corresponding_data": "Secretariat - Borderline_3.wav",
+"position(sec)": 4.489916666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Secretariat - Borderline_28.wav": {
+"corresponding_data": "Secretariat - Borderline_14.wav",
+"position(sec)": 2.8450416666666665,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Secretariat - Borderline_3.wav": {
+"corresponding_data": "Secretariat - Borderline_28.wav",
+"position(sec)": 5.259458333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Secretariat - Borderline_5.wav": {
+"corresponding_data": "Secretariat - Borderline_16.wav",
+"position(sec)": 1.6184166666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Secretariat - Borderline_8.wav": {
+"corresponding_data": "Secretariat - Over The Top_12.wav",
+"position(sec)": 2.200625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Secretariat - Borderline_9.wav": {
+"corresponding_data": "Secretariat - Borderline_24.wav",
+"position(sec)": 4.066,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Secretariat - Over The Top_12.wav": {
+"corresponding_data": "Secretariat - Borderline_25.wav",
+"position(sec)": 2.7620833333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Secretariat - Over The Top_14.wav": {
+"corresponding_data": "Secretariat - Borderline_8.wav",
+"position(sec)": 1.7702916666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Secretariat - Over The Top_19.wav": {
+"corresponding_data": "Secretariat - Borderline_25.wav",
+"position(sec)": 0.7528333333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Secretariat - Over The Top_20.wav": {
+"corresponding_data": "Secretariat - Over The Top_22.wav",
+"position(sec)": 3.943791666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Secretariat - Over The Top_21.wav": {
+"corresponding_data": "Secretariat - Borderline_8.wav",
+"position(sec)": 0.246375,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Secretariat - Over The Top_22.wav": {
+"corresponding_data": "Secretariat - Borderline_14.wav",
+"position(sec)": 4.934041666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Secretariat - Over The Top_4.wav": {
+"corresponding_data": "Secretariat - Over The Top_22.wav",
+"position(sec)": 1.8126666666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Secretariat - Over The Top_5.wav": {
+"corresponding_data": "Secretariat - Over The Top_14.wav",
+"position(sec)": 1.7684166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Secretariat - Over The Top_6.wav": {
+"corresponding_data": "Secretariat - Over The Top_19.wav",
+"position(sec)": 2.395583333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Side Effects Project - Sing With Me_0.wav": {
+"corresponding_data": "Side Effects Project - Sing With Me_14.wav",
+"position(sec)": 0.9349583333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Side Effects Project - Sing With Me_14.wav": {
+"corresponding_data": "Side Effects Project - Sing With Me_0.wav",
+"position(sec)": 0.2505833333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Side Effects Project - Sing With Me_8.wav": {
+"corresponding_data": "Side Effects Project - Sing With Me_0.wav",
+"position(sec)": 3.0962916666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Signe Jakobsen - What Have You Done To Me_1.wav": {
+"corresponding_data": "Signe Jakobsen - What Have You Done To Me_5.wav",
+"position(sec)": 2.828125,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Signe Jakobsen - What Have You Done To Me_10.wav": {
+"corresponding_data": "Signe Jakobsen - What Have You Done To Me_9.wav",
+"position(sec)": 1.2765,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Signe Jakobsen - What Have You Done To Me_14.wav": {
+"corresponding_data": "Signe Jakobsen - What Have You Done To Me_3.wav",
+"position(sec)": 5.203458333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Signe Jakobsen - What Have You Done To Me_2.wav": {
+"corresponding_data": "Signe Jakobsen - What Have You Done To Me_10.wav",
+"position(sec)": 0.810125,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Signe Jakobsen - What Have You Done To Me_3.wav": {
+"corresponding_data": "Signe Jakobsen - What Have You Done To Me_2.wav",
+"position(sec)": 5.718208333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Signe Jakobsen - What Have You Done To Me_4.wav": {
+"corresponding_data": "Signe Jakobsen - What Have You Done To Me_5.wav",
+"position(sec)": 0.75825,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Signe Jakobsen - What Have You Done To Me_5.wav": {
+"corresponding_data": "Signe Jakobsen - What Have You Done To Me_14.wav",
+"position(sec)": 0.501375,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Signe Jakobsen - What Have You Done To Me_8.wav": {
+"corresponding_data": "Signe Jakobsen - What Have You Done To Me_2.wav",
+"position(sec)": 2.247333333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Signe Jakobsen - What Have You Done To Me_9.wav": {
+"corresponding_data": "Signe Jakobsen - What Have You Done To Me_8.wav",
+"position(sec)": 1.4306666666666668,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Skelpolu - Resurrection_39.wav": {
+"corresponding_data": "Skelpolu - Resurrection_47.wav",
+"position(sec)": 1.9335833333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Skelpolu - Resurrection_42.wav": {
+"corresponding_data": "Skelpolu - Resurrection_47.wav",
+"position(sec)": 5.626708333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Skelpolu - Resurrection_47.wav": {
+"corresponding_data": "Skelpolu - Resurrection_42.wav",
+"position(sec)": 5.905583333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Speak Softly - Broken Man_0.wav": {
+"corresponding_data": "Speak Softly - Broken Man_11.wav",
+"position(sec)": 2.7941666666666665,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Speak Softly - Broken Man_1.wav": {
+"corresponding_data": "Speak Softly - Broken Man_11.wav",
+"position(sec)": 0.9668333333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Speak Softly - Broken Man_10.wav": {
+"corresponding_data": "Speak Softly - Broken Man_28.wav",
+"position(sec)": 1.3579583333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Speak Softly - Broken Man_11.wav": {
+"corresponding_data": "Speak Softly - Broken Man_2.wav",
+"position(sec)": 0.826625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Speak Softly - Broken Man_12.wav": {
+"corresponding_data": "Speak Softly - Broken Man_2.wav",
+"position(sec)": 2.1775,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Speak Softly - Broken Man_17.wav": {
+"corresponding_data": "Speak Softly - Broken Man_0.wav",
+"position(sec)": 0.9339166666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Speak Softly - Broken Man_18.wav": {
+"corresponding_data": "Speak Softly - Broken Man_3.wav",
+"position(sec)": 4.662916666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Speak Softly - Broken Man_19.wav": {
+"corresponding_data": "Speak Softly - Broken Man_9.wav",
+"position(sec)": 0.8141666666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Speak Softly - Broken Man_2.wav": {
+"corresponding_data": "Speak Softly - Broken Man_1.wav",
+"position(sec)": 5.837208333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Speak Softly - Broken Man_28.wav": {
+"corresponding_data": "Speak Softly - Broken Man_1.wav",
+"position(sec)": 5.816041666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Speak Softly - Broken Man_3.wav": {
+"corresponding_data": "Speak Softly - Broken Man_19.wav",
+"position(sec)": 1.4919166666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Speak Softly - Broken Man_8.wav": {
+"corresponding_data": "Speak Softly - Broken Man_2.wav",
+"position(sec)": 0.8559166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Speak Softly - Broken Man_9.wav": {
+"corresponding_data": "Speak Softly - Broken Man_17.wav",
+"position(sec)": 2.2608333333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_10.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_5.wav",
+"position(sec)": 1.9915,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_11.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_23.wav",
+"position(sec)": 0.7700416666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_12.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_42.wav",
+"position(sec)": 4.8970416666666665,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_13.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_23.wav",
+"position(sec)": 5.258125,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_15.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_39.wav",
+"position(sec)": 0.13558333333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_16.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_30.wav",
+"position(sec)": 2.1633333333333336,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_17.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_11.wav",
+"position(sec)": 6.234333333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_18.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_19.wav",
+"position(sec)": 1.5406666666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_19.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_21.wav",
+"position(sec)": 1.200125,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_20.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_21.wav",
+"position(sec)": 4.113416666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_21.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_13.wav",
+"position(sec)": 1.0451666666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_22.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_34.wav",
+"position(sec)": 1.2338333333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_23.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_41.wav",
+"position(sec)": 3.6784166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_29.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_5.wav",
+"position(sec)": 1.0443333333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_30.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_12.wav",
+"position(sec)": 1.4457083333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_31.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_18.wav",
+"position(sec)": 1.3455,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_32.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_36.wav",
+"position(sec)": 1.1649166666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_33.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_29.wav",
+"position(sec)": 1.9176666666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_34.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_18.wav",
+"position(sec)": 1.3120416666666668,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_35.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_33.wav",
+"position(sec)": 2.181208333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_36.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_35.wav",
+"position(sec)": 6.648166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_38.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_9.wav",
+"position(sec)": 0.982,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_39.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_19.wav",
+"position(sec)": 2.5585833333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_40.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_19.wav",
+"position(sec)": 3.467791666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_41.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_15.wav",
+"position(sec)": 0.9585,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_42.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_21.wav",
+"position(sec)": 2.6216666666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_5.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_12.wav",
+"position(sec)": 4.771958333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_6.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_34.wav",
+"position(sec)": 1.7247083333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_7.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_16.wav",
+"position(sec)": 0.50525,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_8.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_6.wav",
+"position(sec)": 0.3238333333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Doppler Shift - Atrophy_9.wav": {
+"corresponding_data": "The Doppler Shift - Atrophy_17.wav",
+"position(sec)": 0.7412916666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Easton Ellises (Baumi) - SDRNR_5.wav": {
+"corresponding_data": "The Easton Ellises (Baumi) - SDRNR_6.wav",
+"position(sec)": 3.394833333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Easton Ellises (Baumi) - SDRNR_6.wav": {
+"corresponding_data": "The Easton Ellises (Baumi) - SDRNR_5.wav",
+"position(sec)": 2.233416666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Easton Ellises - Falcon 69_11.wav": {
+"corresponding_data": "The Easton Ellises - Falcon 69_5.wav",
+"position(sec)": 1.606625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Easton Ellises - Falcon 69_12.wav": {
+"corresponding_data": "The Easton Ellises - Falcon 69_6.wav",
+"position(sec)": 0.8637083333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Easton Ellises - Falcon 69_16.wav": {
+"corresponding_data": "The Easton Ellises - Falcon 69_4.wav",
+"position(sec)": 1.2868333333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Easton Ellises - Falcon 69_19.wav": {
+"corresponding_data": "The Easton Ellises - Falcon 69_6.wav",
+"position(sec)": 0.2625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Easton Ellises - Falcon 69_2.wav": {
+"corresponding_data": "The Easton Ellises - Falcon 69_11.wav",
+"position(sec)": 0.7231666666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Easton Ellises - Falcon 69_20.wav": {
+"corresponding_data": "The Easton Ellises - Falcon 69_22.wav",
+"position(sec)": 0.33308333333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Easton Ellises - Falcon 69_21.wav": {
+"corresponding_data": "The Easton Ellises - Falcon 69_30.wav",
+"position(sec)": 3.189791666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Easton Ellises - Falcon 69_22.wav": {
+"corresponding_data": "The Easton Ellises - Falcon 69_9.wav",
+"position(sec)": 1.3705416666666668,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Easton Ellises - Falcon 69_23.wav": {
+"corresponding_data": "The Easton Ellises - Falcon 69_16.wav",
+"position(sec)": 5.42025,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Easton Ellises - Falcon 69_3.wav": {
+"corresponding_data": "The Easton Ellises - Falcon 69_19.wav",
+"position(sec)": 2.218958333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Easton Ellises - Falcon 69_30.wav": {
+"corresponding_data": "The Easton Ellises - Falcon 69_6.wav",
+"position(sec)": 0.027416666666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Easton Ellises - Falcon 69_4.wav": {
+"corresponding_data": "The Easton Ellises - Falcon 69_12.wav",
+"position(sec)": 4.756,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Easton Ellises - Falcon 69_5.wav": {
+"corresponding_data": "The Easton Ellises - Falcon 69_12.wav",
+"position(sec)": 3.2689166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Easton Ellises - Falcon 69_6.wav": {
+"corresponding_data": "The Easton Ellises - Falcon 69_2.wav",
+"position(sec)": 2.527375,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Easton Ellises - Falcon 69_7.wav": {
+"corresponding_data": "The Easton Ellises - Falcon 69_21.wav",
+"position(sec)": 2.598625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Easton Ellises - Falcon 69_8.wav": {
+"corresponding_data": "The Easton Ellises - Falcon 69_19.wav",
+"position(sec)": 3.3502083333333332,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Easton Ellises - Falcon 69_9.wav": {
+"corresponding_data": "The Easton Ellises - Falcon 69_19.wav",
+"position(sec)": 1.69425,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Long Wait - Dark Horses_19.wav": {
+"corresponding_data": "The Long Wait - Dark Horses_22.wav",
+"position(sec)": 3.423125,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Long Wait - Dark Horses_20.wav": {
+"corresponding_data": "The Long Wait - Dark Horses_21.wav",
+"position(sec)": 3.678375,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Long Wait - Dark Horses_21.wav": {
+"corresponding_data": "The Long Wait - Dark Horses_19.wav",
+"position(sec)": 0.16904166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Long Wait - Dark Horses_22.wav": {
+"corresponding_data": "The Long Wait - Dark Horses_21.wav",
+"position(sec)": 0.9987083333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Long Wait - Dark Horses_27.wav": {
+"corresponding_data": "The Long Wait - Dark Horses_22.wav",
+"position(sec)": 3.93175,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Mountaineering Club - Mallory_11.wav": {
+"corresponding_data": "The Mountaineering Club - Mallory_13.wav",
+"position(sec)": 3.377375,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Mountaineering Club - Mallory_12.wav": {
+"corresponding_data": "The Mountaineering Club - Mallory_6.wav",
+"position(sec)": 0.43183333333333335,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Mountaineering Club - Mallory_13.wav": {
+"corresponding_data": "The Mountaineering Club - Mallory_12.wav",
+"position(sec)": 4.34875,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Mountaineering Club - Mallory_14.wav": {
+"corresponding_data": "The Mountaineering Club - Mallory_12.wav",
+"position(sec)": 1.6549583333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Mountaineering Club - Mallory_16.wav": {
+"corresponding_data": "The Mountaineering Club - Mallory_6.wav",
+"position(sec)": 1.984625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Mountaineering Club - Mallory_17.wav": {
+"corresponding_data": "The Mountaineering Club - Mallory_7.wav",
+"position(sec)": 1.6021666666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Mountaineering Club - Mallory_18.wav": {
+"corresponding_data": "The Mountaineering Club - Mallory_5.wav",
+"position(sec)": 1.9205,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Mountaineering Club - Mallory_19.wav": {
+"corresponding_data": "The Mountaineering Club - Mallory_20.wav",
+"position(sec)": 1.3515,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Mountaineering Club - Mallory_20.wav": {
+"corresponding_data": "The Mountaineering Club - Mallory_18.wav",
+"position(sec)": 0.09379166666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Mountaineering Club - Mallory_21.wav": {
+"corresponding_data": "The Mountaineering Club - Mallory_20.wav",
+"position(sec)": 2.6338333333333335,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Mountaineering Club - Mallory_34.wav": {
+"corresponding_data": "The Mountaineering Club - Mallory_7.wav",
+"position(sec)": 2.1915833333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Mountaineering Club - Mallory_5.wav": {
+"corresponding_data": "The Mountaineering Club - Mallory_8.wav",
+"position(sec)": 2.1754166666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Mountaineering Club - Mallory_6.wav": {
+"corresponding_data": "The Mountaineering Club - Mallory_13.wav",
+"position(sec)": 0.41354166666666664,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Mountaineering Club - Mallory_7.wav": {
+"corresponding_data": "The Mountaineering Club - Mallory_11.wav",
+"position(sec)": 2.2550833333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Mountaineering Club - Mallory_8.wav": {
+"corresponding_data": "The Mountaineering Club - Mallory_21.wav",
+"position(sec)": 0.397,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Sunshine Garcia Band - For I Am The Moon_21.wav": {
+"corresponding_data": "The Sunshine Garcia Band - For I Am The Moon_5.wav",
+"position(sec)": 1.9525833333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Sunshine Garcia Band - For I Am The Moon_22.wav": {
+"corresponding_data": "The Sunshine Garcia Band - For I Am The Moon_25.wav",
+"position(sec)": 2.4656666666666665,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Sunshine Garcia Band - For I Am The Moon_23.wav": {
+"corresponding_data": "The Sunshine Garcia Band - For I Am The Moon_25.wav",
+"position(sec)": 1.7702083333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Sunshine Garcia Band - For I Am The Moon_24.wav": {
+"corresponding_data": "The Sunshine Garcia Band - For I Am The Moon_25.wav",
+"position(sec)": 3.335166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Sunshine Garcia Band - For I Am The Moon_25.wav": {
+"corresponding_data": "The Sunshine Garcia Band - For I Am The Moon_5.wav",
+"position(sec)": 1.075375,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"The Sunshine Garcia Band - For I Am The Moon_5.wav": {
+"corresponding_data": "The Sunshine Garcia Band - For I Am The Moon_24.wav",
+"position(sec)": 1.083625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_0.wav": {
+"corresponding_data": "Timboz - Pony_32.wav",
+"position(sec)": 1.0756666666666668,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_1.wav": {
+"corresponding_data": "Timboz - Pony_13.wav",
+"position(sec)": 1.4100416666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_10.wav": {
+"corresponding_data": "Timboz - Pony_30.wav",
+"position(sec)": 1.5031666666666668,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_11.wav": {
+"corresponding_data": "Timboz - Pony_14.wav",
+"position(sec)": 0.9234166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_12.wav": {
+"corresponding_data": "Timboz - Pony_30.wav",
+"position(sec)": 4.069583333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_13.wav": {
+"corresponding_data": "Timboz - Pony_34.wav",
+"position(sec)": 2.2960416666666665,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_14.wav": {
+"corresponding_data": "Timboz - Pony_4.wav",
+"position(sec)": 3.3012083333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_15.wav": {
+"corresponding_data": "Timboz - Pony_3.wav",
+"position(sec)": 1.9405833333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_16.wav": {
+"corresponding_data": "Timboz - Pony_14.wav",
+"position(sec)": 0.575125,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_2.wav": {
+"corresponding_data": "Timboz - Pony_12.wav",
+"position(sec)": 3.5417083333333332,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_21.wav": {
+"corresponding_data": "Timboz - Pony_13.wav",
+"position(sec)": 1.2167083333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_22.wav": {
+"corresponding_data": "Timboz - Pony_10.wav",
+"position(sec)": 1.4901666666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_23.wav": {
+"corresponding_data": "Timboz - Pony_16.wav",
+"position(sec)": 2.1979166666666665,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_25.wav": {
+"corresponding_data": "Timboz - Pony_9.wav",
+"position(sec)": 0.7002916666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_26.wav": {
+"corresponding_data": "Timboz - Pony_3.wav",
+"position(sec)": 0.7359583333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_27.wav": {
+"corresponding_data": "Timboz - Pony_4.wav",
+"position(sec)": 2.4249583333333335,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_3.wav": {
+"corresponding_data": "Timboz - Pony_32.wav",
+"position(sec)": 2.5388333333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_30.wav": {
+"corresponding_data": "Timboz - Pony_8.wav",
+"position(sec)": 4.653,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_31.wav": {
+"corresponding_data": "Timboz - Pony_10.wav",
+"position(sec)": 0.5189166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_32.wav": {
+"corresponding_data": "Timboz - Pony_0.wav",
+"position(sec)": 1.843875,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_34.wav": {
+"corresponding_data": "Timboz - Pony_12.wav",
+"position(sec)": 0.509,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_35.wav": {
+"corresponding_data": "Timboz - Pony_8.wav",
+"position(sec)": 2.3386666666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_4.wav": {
+"corresponding_data": "Timboz - Pony_9.wav",
+"position(sec)": 1.754625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_5.wav": {
+"corresponding_data": "Timboz - Pony_31.wav",
+"position(sec)": 0.9174166666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_8.wav": {
+"corresponding_data": "Timboz - Pony_16.wav",
+"position(sec)": 5.77075,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Timboz - Pony_9.wav": {
+"corresponding_data": "Timboz - Pony_16.wav",
+"position(sec)": 0.36204166666666665,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Tom McKenzie - Directions_10.wav": {
+"corresponding_data": "Tom McKenzie - Directions_9.wav",
+"position(sec)": 3.6946666666666665,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Tom McKenzie - Directions_16.wav": {
+"corresponding_data": "Tom McKenzie - Directions_5.wav",
+"position(sec)": 3.506,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Tom McKenzie - Directions_2.wav": {
+"corresponding_data": "Tom McKenzie - Directions_21.wav",
+"position(sec)": 1.4874166666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Tom McKenzie - Directions_21.wav": {
+"corresponding_data": "Tom McKenzie - Directions_16.wav",
+"position(sec)": 3.1658333333333335,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Tom McKenzie - Directions_3.wav": {
+"corresponding_data": "Tom McKenzie - Directions_21.wav",
+"position(sec)": 3.4092083333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Tom McKenzie - Directions_4.wav": {
+"corresponding_data": "Tom McKenzie - Directions_3.wav",
+"position(sec)": 4.533166666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Tom McKenzie - Directions_5.wav": {
+"corresponding_data": "Tom McKenzie - Directions_2.wav",
+"position(sec)": 3.015416666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Tom McKenzie - Directions_6.wav": {
+"corresponding_data": "Tom McKenzie - Directions_21.wav",
+"position(sec)": 2.89225,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Tom McKenzie - Directions_9.wav": {
+"corresponding_data": "Tom McKenzie - Directions_2.wav",
+"position(sec)": 3.236875,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Triviul feat. The Fiend - Widow_10.wav": {
+"corresponding_data": "Triviul feat. The Fiend - Widow_12.wav",
+"position(sec)": 2.847625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Triviul feat. The Fiend - Widow_12.wav": {
+"corresponding_data": "Triviul feat. The Fiend - Widow_29.wav",
+"position(sec)": 1.2116666666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Triviul feat. The Fiend - Widow_2.wav": {
+"corresponding_data": "Triviul feat. The Fiend - Widow_10.wav",
+"position(sec)": 1.9775833333333332,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Triviul feat. The Fiend - Widow_29.wav": {
+"corresponding_data": "Triviul feat. The Fiend - Widow_10.wav",
+"position(sec)": 2.0300416666666665,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Triviul feat. The Fiend - Widow_3.wav": {
+"corresponding_data": "Triviul feat. The Fiend - Widow_10.wav",
+"position(sec)": 0.22833333333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Triviul feat. The Fiend - Widow_31.wav": {
+"corresponding_data": "Triviul feat. The Fiend - Widow_29.wav",
+"position(sec)": 0.33175,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"We Fell From The Sky - Not You_15.wav": {
+"corresponding_data": "We Fell From The Sky - Not You_8.wav",
+"position(sec)": 0.014583333333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"We Fell From The Sky - Not You_17.wav": {
+"corresponding_data": "We Fell From The Sky - Not You_19.wav",
+"position(sec)": 3.8564583333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"We Fell From The Sky - Not You_18.wav": {
+"corresponding_data": "We Fell From The Sky - Not You_15.wav",
+"position(sec)": 4.4875,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"We Fell From The Sky - Not You_19.wav": {
+"corresponding_data": "We Fell From The Sky - Not You_20.wav",
+"position(sec)": 1.2625833333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"We Fell From The Sky - Not You_20.wav": {
+"corresponding_data": "We Fell From The Sky - Not You_18.wav",
+"position(sec)": 1.7250416666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"We Fell From The Sky - Not You_28.wav": {
+"corresponding_data": "We Fell From The Sky - Not You_18.wav",
+"position(sec)": 1.3874583333333332,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"We Fell From The Sky - Not You_7.wav": {
+"corresponding_data": "We Fell From The Sky - Not You_28.wav",
+"position(sec)": 1.5508333333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"We Fell From The Sky - Not You_8.wav": {
+"corresponding_data": "We Fell From The Sky - Not You_28.wav",
+"position(sec)": 2.4015833333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Zeno - Signs_13.wav": {
+"corresponding_data": "Zeno - Signs_3.wav",
+"position(sec)": 4.930625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Zeno - Signs_14.wav": {
+"corresponding_data": "Zeno - Signs_25.wav",
+"position(sec)": 1.55125,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Zeno - Signs_15.wav": {
+"corresponding_data": "Zeno - Signs_4.wav",
+"position(sec)": 1.59925,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Zeno - Signs_16.wav": {
+"corresponding_data": "Zeno - Signs_15.wav",
+"position(sec)": 0.668625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Zeno - Signs_2.wav": {
+"corresponding_data": "Zeno - Signs_14.wav",
+"position(sec)": 1.09575,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Zeno - Signs_24.wav": {
+"corresponding_data": "Zeno - Signs_5.wav",
+"position(sec)": 0.4513333333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Zeno - Signs_25.wav": {
+"corresponding_data": "Zeno - Signs_15.wav",
+"position(sec)": 0.7343333333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Zeno - Signs_26.wav": {
+"corresponding_data": "Zeno - Signs_27.wav",
+"position(sec)": 1.0325,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Zeno - Signs_27.wav": {
+"corresponding_data": "Zeno - Signs_25.wav",
+"position(sec)": 2.3106666666666666,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Zeno - Signs_3.wav": {
+"corresponding_data": "Zeno - Signs_4.wav",
+"position(sec)": 3.57675,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Zeno - Signs_34.wav": {
+"corresponding_data": "Zeno - Signs_24.wav",
+"position(sec)": 0.09233333333333334,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Zeno - Signs_4.wav": {
+"corresponding_data": "Zeno - Signs_24.wav",
+"position(sec)": 2.9465833333333333,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Zeno - Signs_5.wav": {
+"corresponding_data": "Zeno - Signs_4.wav",
+"position(sec)": 1.031625,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+},
+"Zeno - Signs_6.wav": {
+"corresponding_data": "Zeno - Signs_26.wav",
+"position(sec)": 4.120541666666667,
+"unison_aug": false,
+"unison_params": null,
+"type": "singing_same_singer"
+}
+}

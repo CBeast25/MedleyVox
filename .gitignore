@@ -1,0 +1,11 @@
+# audio file
+svs/wandb/
+svs/depracated
+.DS_Store
+*.pyc
+wandb
+results/*
+input/*
+output*
+vocal*
+*.aup

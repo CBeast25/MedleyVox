@@ -1,0 +1,74 @@
+{
+"NUS - ADIZ": [
+"ADIZ_01",
+"ADIZ_09",
+"ADIZ_13",
+"ADIZ_18"
+],
+"NUS - JLEE": [
+"JLEE_05",
+"JLEE_08",
+"JLEE_11",
+"JLEE_15"
+],
+"NUS - JTAN": [
+"JTAN_07",
+"JTAN_15",
+"JTAN_16",
+"JTAN_20"
+],
+"NUS - KENN": [
+"KENN_04",
+"KENN_10",
+"KENN_12",
+"KENN_17"
+],
+"NUS - MCUR": [
+"MCUR_04",
+"MCUR_10",
+"MCUR_12",
+"MCUR_17"
+],
+"NUS - MPOL": [
+"MPOL_05",
+"MPOL_11",
+"MPOL_19",
+"MPOL_20"
+],
+"NUS - MPUR": [
+"MPUR_02",
+"MPUR_03",
+"MPUR_06",
+"MPUR_14"
+],
+"NUS - NJAT": [
+"NJAT_07",
+"NJAT_15",
+"NJAT_16",
+"NJAT_20"
+],
+"NUS - PMAR": [
+"PMAR_05",
+"PMAR_08",
+"PMAR_11",
+"PMAR_15"
+],
+"NUS - SAMF": [
+"SAMF_01",
+"SAMF_09",
+"SAMF_13",
+"SAMF_18"
+],
+"NUS - VKOW": [
+"VKOW_05",
+"VKOW_11",
+"VKOW_19",
+"VKOW_20"
+],
+"NUS - ZHIY": [
+"ZHIY_02",
+"ZHIY_03",
+"ZHIY_06",
+"ZHIY_14"
+]
+}

@@ -1,0 +1,12 @@
+numpy
+librosa
+soundfile
+torch
+torchaudio
+asteroid
+pyloudnorm
+matplotlib
+wandb
+praat-parselmouth
+fairseq
+webrtcvad
